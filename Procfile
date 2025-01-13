@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn personal_expenses_py:app
