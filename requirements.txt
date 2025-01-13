@@ -1,0 +1,5 @@
+Flask==2.2.5
+pyngrok==7.2.3   # If you’re not using Ngrok in production, you can omit this
+fpdf==1.7.2
+matplotlib==3.7.1
+gunicorn==20.1.0  # For production WSGI server
